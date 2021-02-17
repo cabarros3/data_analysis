@@ -26,22 +26,35 @@
 
 <a id="anchor3"></a>
 ## Exploratory Analysis
-*
-*
-*
+* Which are the books with most occurances in the list?
+* What is the distribution of books across languages?
+* Which are the top 10 most rated books?
+* Which are the authors with most books?
+* Performance of an author over time:
+  * Stephen King
+  * Agatha Christie
+  * Dan Brown
+  * J.K. Rowling
+* Which are the top 10 highly rated authors?
+* What is the rating distribution for the books?
+* Is there relationship between ratings and review counts?
+* Is there a relationship between number of pages and ratings?
+* Is there a relationship between ratings and ratings count?
+* Which are the books with the highest reviews?
+
 
 <a id="anchor4"></a>
 ## Data Visualization
-*
-*
-*
-*
-*
-*
+* em construção...
 
-# Tutorials I've seen
+
+# Tutorials anda notebooks I've seen
 * [Link interno github](https://medium.com/thiagogmta/criando-um-arquivo-markdown-com-links-internos-3ad5da825ccd)
 * [Remover colunas e linhas no pandas](https://www.alura.com.br/artigos/como-remover-linhas-e-colunas-no-pandas)
+* [Notebook - exemplo de análise exploratória](https://www.kaggle.com/hoshi7/goodreads-analysis-and-recommending-books)
+* [Notebook - Exemplo de visualização de dados](https://www.kaggle.com/listonlt/books-data-visualisation-with-seaborn/notebook)
+* [Notebook - exemplo de sistema de recomendação de livros](https://www.kaggle.com/aayushmishra1512/what-should-you-read-next-book-recommender)
+
 
 
 :top:[Top](#anchor)
