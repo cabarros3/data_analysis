@@ -54,6 +54,7 @@
 * [Notebook - exemplo de análise exploratória](https://www.kaggle.com/hoshi7/goodreads-analysis-and-recommending-books)
 * [Notebook - Exemplo de visualização de dados](https://www.kaggle.com/listonlt/books-data-visualisation-with-seaborn/notebook)
 * [Notebook - exemplo de sistema de recomendação de livros](https://www.kaggle.com/aayushmishra1512/what-should-you-read-next-book-recommender)
+* [Drop null](https://medium.com/horadecodar/como-tratar-dados-nulos-no-dataset-4f0470b22d38)
 
 
 
