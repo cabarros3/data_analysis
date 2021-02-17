@@ -4,7 +4,7 @@
 1. [Loading libraries and data](#anchor1)
 2. [Data cleaning](#anchor2)
 3. [Exploratory analysis](#anchor3)
-4. [Data visualization](#anchor4)
+4. [Tutorials and notebooks](#anchor4)
 
 <a id="anchor1"></a>
 ## Loading libraries and data
@@ -38,12 +38,7 @@
 * Which are the books with the highest reviews?
 
 
-<a id="anchor4"></a>
-## Data Visualization
-* em construção...
-
-
-# Tutorials and notebooks I've seen
+# Tutorials and notebooks
 * [Link interno github](https://medium.com/thiagogmta/criando-um-arquivo-markdown-com-links-internos-3ad5da825ccd)
 * [Remover colunas e linhas no pandas](https://www.alura.com.br/artigos/como-remover-linhas-e-colunas-no-pandas)
 * [Notebook - exemplo de análise exploratória](https://www.kaggle.com/hoshi7/goodreads-analysis-and-recommending-books)
