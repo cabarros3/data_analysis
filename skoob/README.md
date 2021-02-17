@@ -38,4 +38,10 @@
 *
 *
 *
-[top](#anchor)
+
+# Tutorials I've seen
+* [Link interno github](https://medium.com/thiagogmta/criando-um-arquivo-markdown-com-links-internos-3ad5da825ccd)
+* [Remover colunas e linhas no pandas](https://www.alura.com.br/artigos/como-remover-linhas-e-colunas-no-pandas)
+
+
+:top:[Top](#anchor)
