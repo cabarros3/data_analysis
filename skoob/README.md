@@ -30,11 +30,6 @@
 * What is the distribution of books across languages?
 * Which are the top 10 most rated books?
 * Which are the authors with most books?
-* Performance of an author over time:
-  * Stephen King
-  * Agatha Christie
-  * Dan Brown
-  * J.K. Rowling
 * Which are the top 10 highly rated authors?
 * What is the rating distribution for the books?
 * Is there relationship between ratings and review counts?
