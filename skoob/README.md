@@ -48,7 +48,7 @@
 * em construção...
 
 
-# Tutorials anda notebooks I've seen
+# Tutorials and notebooks I've seen
 * [Link interno github](https://medium.com/thiagogmta/criando-um-arquivo-markdown-com-links-internos-3ad5da825ccd)
 * [Remover colunas e linhas no pandas](https://www.alura.com.br/artigos/como-remover-linhas-e-colunas-no-pandas)
 * [Notebook - exemplo de análise exploratória](https://www.kaggle.com/hoshi7/goodreads-analysis-and-recommending-books)
