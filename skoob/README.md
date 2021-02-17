@@ -6,14 +6,14 @@
 3. [Exploratory analysis](#anchor3)
 4. [Data visualization](#anchor4)
 
-<a id="#anchor1"></a>
+<a id="anchor1"></a>
 ## Loading libraries and data
 * Pandas
 * Seaborn
 * Matplotlib
 * Get dataset from [Kaggle](https://www.kaggle.com/victorstein/livros-skoob)
 
-<a id="#anchor2"></a>
+<a id="anchor2"></a>
 ## Data cleaning
 * drop column 'isbn13'
 * drop column 'isbn10'
@@ -24,14 +24,17 @@
 * create filter to avaliacao == 0
 * create filter to avaliacao > male & female
 
-<a id="#anchor3"></a>
+<a id="anchor3"></a>
 ## Exploratory Analysis
 *
 *
 *
 
-<a id="#anchor4"></a>
+<a id="anchor4"></a>
 ## Data Visualization
+*
+*
+*
 *
 *
 *
