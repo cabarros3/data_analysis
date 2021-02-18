@@ -21,7 +21,7 @@
 * rename columns 'paginas' and 'genero'
 * concentrate language in portuguese
 * create filter to rating > 5
-* create filter to avaliacao == 0
+* create filter to avaliacao != 0
 * create filter to avaliacao > male & female
 
 <a id="anchor3"></a>
